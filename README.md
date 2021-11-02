@@ -1,8 +1,8 @@
 # HTML-Tag_Lexer - Faculty Assignment
+---
 The project was made on Windows using WLS
 
 ## Functionality:
----
 ### IGNOR:
 Status for ignored tag values beginning with `<!` and `<?`
 
